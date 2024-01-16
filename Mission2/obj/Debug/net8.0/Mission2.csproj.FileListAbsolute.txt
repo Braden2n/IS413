@@ -1,0 +1,14 @@
+C:\Users\btoone\source\repos\Mission2\bin\Debug\net8.0\Mission2.exe
+C:\Users\btoone\source\repos\Mission2\bin\Debug\net8.0\Mission2.deps.json
+C:\Users\btoone\source\repos\Mission2\bin\Debug\net8.0\Mission2.runtimeconfig.json
+C:\Users\btoone\source\repos\Mission2\bin\Debug\net8.0\Mission2.dll
+C:\Users\btoone\source\repos\Mission2\bin\Debug\net8.0\Mission2.pdb
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\Mission2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\Mission2.AssemblyInfoInputs.cache
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\Mission2.AssemblyInfo.cs
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\Mission2.csproj.CoreCompileInputs.cache
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\Mission2.dll
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\refint\Mission2.dll
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\Mission2.pdb
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\Mission2.genruntimeconfig.cache
+C:\Users\btoone\source\repos\Mission2\obj\Debug\net8.0\ref\Mission2.dll
